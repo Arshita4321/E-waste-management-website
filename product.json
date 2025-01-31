@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Clothes",
+        "price": 299,
+        "image": "Images/clothes.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Baskets",
+        "price": 235,
+        "image": "Images/home decor.webp"
+    },
+    {
+        "id": 3,
+        "name": "Ic chips",
+        "price": 250,
+        "image": "Images/ic chips.jpeg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "recycled fabrics",
+        "price": 215,
+        "image": "Images/recycled fabrics.jpg"
+    },
+    {
+        "id": 5,
+        "name": "USB",
+        "price": 205,
+        "image": "Images/recycle usb.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Papers",
+        "price": 65,
+        "image": "Images/recycled papers.jpg"
+    }
+]
